@@ -14,10 +14,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "App.js",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node.App.js",
+    
+    "test": "echo\"Error: no test specified\" && exit 1"
+    
   },
   "eslintConfig": {
     "extends": [
